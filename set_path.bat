@@ -1,1 +1,1 @@
-set PATH=%PATH%;C:\Python34\;
+set PATH=%PATH%;C:\Python34\;C:\Python34\Scripts;
